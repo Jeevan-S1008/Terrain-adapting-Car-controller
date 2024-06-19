@@ -20,7 +20,7 @@ This project demonstrates terrain detection using Azure Custom Vision service. I
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/Jeevan-S1008/Terrain-adapting-Car-controller.git
    cd terrain-detection
    ```
 2. Open a new terminal window inside Visual Studio Code by selecting **Terminal** > **New Terminal Window**
