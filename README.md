@@ -1,6 +1,3 @@
-Certainly! Here's a concise README template that you can copy and paste directly into your GitHub repository:
-
----
 
 # Terrain Detection using Azure Custom Vision
 
