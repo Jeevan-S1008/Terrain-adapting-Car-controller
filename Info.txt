@@ -1,0 +1,1 @@
+https://terraindetection-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/a1f48f51-cfb2-47ec-a606-1db71afe65c4/classify/iterations/Terrain%20Classification/url
